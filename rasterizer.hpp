@@ -4,6 +4,7 @@
 #include "Shader.hpp"
 
 #include <algorithm>
+#include <optional>
 #include <eigen3/Eigen/Eigen>
 
 namespace rst {
